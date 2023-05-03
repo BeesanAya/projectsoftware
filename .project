@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+	<properties>
+  <sonar.organization>beesanaya</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 	<name>TEST1</name>
 	<comment></comment>
 	<projects>
